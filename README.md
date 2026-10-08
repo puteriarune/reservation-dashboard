@@ -1,2 +1,2 @@
-# reservation-dashboard
-Professional multi-page reservation breakdown dashboard with React, Vite, and backend support
+PORT=4000
+JWT_SECRET=change-me-in-production
